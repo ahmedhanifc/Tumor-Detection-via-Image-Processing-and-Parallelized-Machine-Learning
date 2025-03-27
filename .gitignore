@@ -1,0 +1,3 @@
+data/
+!data/brain_tumor_dataset/
+!data/brain_tumor_dataset/**
