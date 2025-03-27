@@ -1,4 +1,4 @@
-In this lab, we underwent the process of trying to predict whether the person has tumor or not by preparing a dataset and training a model from labelled images.
+In this Project, I underwent the process of trying to predict whether the person has tumor or not by preparing a dataset and training a model from labelled images.
 
 **Notes**
 
